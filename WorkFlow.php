@@ -46,7 +46,7 @@
                         </div>
                         
                         <div>
-                            <a href="#" id="myBtn" style="margin-bottom: 10px;">Forget Password / Request Reset?</a> <br>
+                            <a href="#" id="myBtn" style="margin-bottom: 10px;">Forget Password?</a> <br>
                             <button class="btn btn--radius-2 btn--blue submit_btn" type="submit">Submit</button>
 
                           
@@ -81,7 +81,7 @@
         
         
         <div>
-            <button class="btn btn--radius-2 btn--green submit_btn" type="submit">Submit</button>
+            <button class="btn btn--radius-2 btn--green submit_btn" type="submit">Login</button>
         </div>
     </form>
   </div>
